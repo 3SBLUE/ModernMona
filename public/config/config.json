@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1de8AeB6794DFF0c76914E4a429a28a44bA056c5",
+  "SCAN_LINK": "https://etherscan.io/address/0x1de8AeB6794DFF0c76914E4a429a28a44bA056c5",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Troglodyte Society",
+  "SYMBOL": "TS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/troglodyte-society-v2",
+  "SHOW_BACKGROUND": true
+}
