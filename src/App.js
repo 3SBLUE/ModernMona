@@ -200,7 +200,7 @@ function App() {
               <h1 className="font-60">Modern Mona</h1>
               <div className="line m-auto border border-white border-left-0 border-right-0 border-top-0"></div>
               <p className="pt-3">The world's most famous painting, reimagined for the digital age.</p>
-              <p>and released as a collection of 1,000 exclusive NFTs on the Etherium blockchain</p>
+              <p>and released as a collection of 1,000 exclusive NFTs on the Ethereum blockchain</p>
             </div>
           </div>
         </div>
