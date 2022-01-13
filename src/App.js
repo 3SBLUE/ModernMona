@@ -105,11 +105,11 @@ function App() {
     NETWORK: {
       NAME: "",
       SYMBOL: "",
-      ID: 0,
+      ID: 4,
     },
     NFT_NAME: "",
     SYMBOL: "",
-    MAX_SUPPLY: 1,
+    MAX_SUPPLY: 1000,
     WEI_COST: 0,
     DISPLAY_COST: 0,
     GAS_LIMIT: 0,
