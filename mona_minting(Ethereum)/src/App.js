@@ -332,10 +332,10 @@ function App() {
         <div className="container">
           <div className="row">
             <div className="col text-center pt-5">
-              <a href="">
+              <a href="https://discord.gg/qETq9dc7z2">
                 <img className="mr-2" src="img/icon-discord.png" width="50" alt="Discord"/>
               </a>
-              <a href="">
+              <a href="https://twitter.com/jpegdude2">
                 <img className="ml-2" src="img/icon-twitter.png" width="50" alt="Twitter"/>
               </a>
             </div>
